@@ -1,13 +1,13 @@
 # Problem Set 1
 
-Now that you have created a GitHub account and have accepted this invitation, you can finish the problem set. The deadline for this problem set is **January 19, at 11:59pm Boston time**. At the end of this problem set, I list all the components you are required to submit and how you must submit them.
+Now that you have created a GitHub account and have accepted this invitation, you can finish the problem set. The deadline for this problem set is **August 30, at 11:59pm Boston time**. At the end of this problem set, I list all the components you are required to submit and how you must submit them.
 
 
 ## Part 1: Course Survey
-[Take this short survey](https://forms.gle/c6LJ2QyRxktytCPa8)
+[Take this short survey](https://forms.gle/58E49TWGnnjSLgZq5)
 
 ## Part 2: Get started on Slack
-Follow [this link to join the Slack workspace for this class](https://join.slack.com/t/csci1090s24/shared_invite/zt-2anzsi28g-kcsiPnm04dhh4q7sAsuGhw). Create your account if you don't have one and feel free to use a pseudonym for your username. Then post a message in the `#general` channel. Don't forget to `@prudhome` if you need my attention.
+Follow [this link to join the Slack workspace for this class](https://join.slack.com/t/csci1090fall2024/shared_invite/zt-2ofrcgxk6-bU7SinHMvV2kF3FSVTlqkA). Create your account if you don't have one and feel free to use a pseudonym for your username. Then post a message in the `#general` channel. Don't forget to `@prudhome` if you need my attention.
 
 ## Part 3: Download and Install GitHub Desktop
 In this class, most assignments will be distributed and submitted using GitHub Classroom. The easiest way to manage GitHub for new users is through the GitHub Desktop application.
